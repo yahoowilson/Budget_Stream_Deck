@@ -9,3 +9,4 @@ This is the first custom project that I made entirely myself with blueprint. I w
 
 Bill of Materials (also in .xlsx or .pdf format above)
 <img width="608" height="256" alt="Screen Shot 2025-12-13 at 7 41 54 PM" src="https://github.com/user-attachments/assets/0a15f3a8-08eb-4c4d-93ad-311517a8c74a" />
+I found cheaper keycaps on adafruit instead of mechanicalkeyboards.com
